@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shelter Finder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login2">Login2Activity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_motel_room">MotelRoomActivity</string>
+    <string name="title_activity_google_map">GoogleMapActivity</string>
+    <string name="facebook_app_id">745330862237399</string>
+
+</resources>
